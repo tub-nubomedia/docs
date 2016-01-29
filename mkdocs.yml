@@ -9,7 +9,9 @@ pages:
 - ['emm-installation.md', 'Installation', 'Install MS-VNFM/EMM']
 - ['crvnfm-installation.md', 'Installation', 'Install CR-VNFM']
 - ['paas-installation.md', 'Installation', 'Install PaaS API']
+- ['cm-installation.md', 'Installation', 'Install Connectivity Manager']
 - ['use-it.md', 'Use it', 'Use it']
+- ['cma-use-it.md', 'Use it', 'Use the Connectivity Manager Agent']
 google_analytics: ['UA-68429895-1', 'openbaton.github.io']
 theme: readthedocs
 theme_dir: 'custom_theme'
